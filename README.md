@@ -4,7 +4,13 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe react-multipage-form-status here.
+react-multipage-form-status is component which will show current status of pages.
+Status can be Visted, Unvisted, Active
+
+Steps to start:
+-npm install
+-nwb serve-react-demo
+
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo
